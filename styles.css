@@ -1,0 +1,30 @@
+ body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height: 1.5;
+    background-color: #f2d7a7;
+    color: #f2d7a7;
+    margin: 20px;
+    text-align: center;
+
+  }
+  
+  h1 {
+    color: #0f5390; 
+     font-size: 30px;
+     font-weight: bold; 
+  }
+  
+  p {
+      color: #0f5390; 
+      font-size: 14px; 
+  }
+
+ /* Styles for map */
+  #map {
+  height: 450px; /* Or any height you prefer */
+  width: 100%;   /* Make it fill the container width */
+  border: 1px solid #ccc; /* Optional: add a border */
+  margin-top: 20px; /* Optional: space above the map */
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 11px;
+}
